@@ -9,11 +9,18 @@ A **relatividade especial** é uma teoria criada por **Albert Einstein** em 1905
 
 ## Consequências da Relatividade Especial
 
-A partir desses princípios, Einstein mostrou que:
+**1. O tempo desacelera para objetos em alta velocidade (dilatação do tempo)**
+• Isso significa que, quanto mais rápido um objeto se move, mais devagar o tempo passa para ele em relação a um observador parado. Por exemplo, se uma pessoa viajar em uma nave a uma velocidade próxima à da luz, ela vai envelhecer mais devagar comparado a alguém que ficou na Terra.
 
-* O **tempo desacelera** para objetos em alta velocidade (dilatação do tempo).
-* O **espaço se contrai** na direção do movimento (contração do comprimento).
-* A **simultaneidade** dos eventos depende do observador.
+---
+
+**2. O espaço se contrai na direção do movimento (contração do comprimento)**
+• Isso significa que, para um objeto que se move em altíssima velocidade, seu comprimento na direção do movimento fica menor, segundo quem está observando de fora. Para quem está dentro do objeto, nada muda, mas para quem observa de fora, o objeto parece “encolher” na direção em que se move.
+
+---
+
+**3. A simultaneidade dos eventos depende do observador**
+• Isso significa que dois eventos que acontecem ao mesmo tempo para um observador parado podem não ser simultâneos para um observador que está em movimento. A percepção de “ao mesmo tempo” muda de acordo com a velocidade e o referencial de cada observador.
 
 ---
 
