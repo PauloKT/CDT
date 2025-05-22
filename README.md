@@ -36,36 +36,29 @@ A nave sofre **acelerações e desacelerações**, saindo de um referencial iner
 
 ## 📐 Fórmula da Dilatação do Tempo
 
-$$
-t' = \frac{t}{\gamma}
-$$
+Fórmula da Dilatação do Tempo:
+t' = t / γ
 
 Onde:
+γ = 1 / √(1 - v² / c²)
 
-$$
-\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
-$$
+t: tempo medido por um observador na Terra (em repouso)
 
-* $t$: tempo medido por um observador na Terra (em repouso)
-* $t'$: tempo medido pelo viajante
-* $v$: velocidade da nave
-* $c$: velocidade da luz
+t': tempo medido pelo viajante (em movimento)
 
-### Exemplo:
+v: velocidade da nave
 
-Para uma nave viajando a **90% da velocidade da luz** (v = 0.9c):
+c: velocidade da luz
 
-$$
-\gamma \approx 2.29
-$$
+Exemplo:
+Se uma nave viaja a 90% da velocidade da luz (v = 0,9c):
+γ ≈ 2,29
 
 Se para quem ficou na Terra passaram 10 anos:
+t' = 10 / 2,29 ≈ 4,37 anos
 
-$$
-t' = \frac{10}{2.29} \approx 4.37 \text{ anos}
-$$
-
-O viajante voltou **mais jovem** do que o irmão na Terra.
+Ou seja, o viajante experimentou apenas 4,37 anos, enquanto na Terra se passaram 10 anos.
+O viajante voltou mais jovem que seu irmão que ficou na Terra.
 
 ---
 
