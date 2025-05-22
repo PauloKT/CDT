@@ -36,30 +36,33 @@ A nave sofre **acelerações e desacelerações**, saindo de um referencial iner
 
 ## 📐 Fórmula da Dilatação do Tempo
 
-
+![image](https://github.com/user-attachments/assets/03374589-4a5c-4611-95ea-f7740ad9759b)
 
 
 
 Onde:
 
+![image](https://github.com/user-attachments/assets/932c3669-5f5a-4085-9d55-944a496a2d46)
 
 
-: tempo medido por um observador na Terra (em repouso)
+t : tempo medido por um observador na Terra (em repouso)
 
-: tempo medido pelo viajante
+t¹ : tempo medido pelo viajante
 
-: velocidade da nave
+v : velocidade da nave
 
-: velocidade da luz
+c : velocidade da luz
 
 🔸 Exemplo:
 
 Para uma nave viajando a 90% da velocidade da luz (v = 0.9c):
 
+![image](https://github.com/user-attachments/assets/134f6da1-c40d-4a8c-836f-b20cd6287b18)
 
 
 Se para quem ficou na Terra passaram 10 anos:
 
+![image](https://github.com/user-attachments/assets/7079bf1e-1dca-4c55-9f7c-cf99721b50c6)
 
 
 O viajante voltou mais jovem do que o irmão na Terra.
