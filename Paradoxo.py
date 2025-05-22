@@ -25,12 +25,11 @@ def main():
         except ValueError:
             print("Digite um número válido, por exemplo 0.9")
 
-    v = perc * 299792458  # velocidade em m/s
-    # Tempo para quem está na Terra (t = d/v)
+    v = perc * 299792458 
     t_terra_seg = distancia_metros / v
     t_terra_anos = converter_anos(t_terra_seg)
 
-    # Agora, calcule o tempo no foguete (tempo próprio)
+
     beta = perc
     gamma = 1 / math.sqrt(1 - beta**2)
     t_foguete_seg = t_terra_seg / gamma
