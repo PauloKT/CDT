@@ -48,14 +48,16 @@ while True:
 
 v = perc * 299792458  # velocidade da viagem
 
-# Cálculo dos tempos
-t_terra_seg = distancia_metros / v
-t_terra_anos = converter_anos(t_terra_seg)
+    v = perc * 299792458  # velocidade em m/s
+    # Tempo para quem está na Terra (t = d/v)
+    t_terra_seg = distancia_metros / v
+    t_terra_anos = converter_anos(t_terra_seg)
 
-beta = perc
-gamma = 1 / math.sqrt(1 - beta**2)
-t_foguete_seg = t_terra_seg / gamma
-t_foguete_anos = converter_anos(t_foguete_seg)
+    # Agora, calcule o tempo no foguete (tempo próprio)
+    beta = perc
+    gamma = 1 / math.sqrt(1 - beta**2)
+    t_foguete_seg = t_terra_seg / gamma
+    t_foguete_anos = converter_anos(t_foguete_seg)
 
 # Simulação
 pos_x = terra_pos[0]
